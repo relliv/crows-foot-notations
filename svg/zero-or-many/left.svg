@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" fill="transparent"
+    stroke="black" stroke-width="2">
+    <path d="M50 50 L100 50 M50 50 L 100 25 M50 50 L100 75 M50 50 a25 25 0 1 1 0 -1 Z" />
+</svg>

@@ -1,0 +1,27 @@
+{
+  "name": "@egoistdeveloper/crows-foot-notations",
+  "version": "1.0.0",
+  "description": "Crow's foot notations in SVG format with left, right, top and bottom directions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EgoistDeveloper/crows-foot-notations.git"
+  },
+  "keywords": [
+    "crows",
+    "foot",
+    "notations",
+    "erd",
+    "er",
+    "crows foot notations"
+  ],
+  "author": "EgoistDeveloper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EgoistDeveloper/crows-foot-notations/issues"
+  },
+  "homepage": "https://github.com/EgoistDeveloper/crows-foot-notations#readme"
+}
