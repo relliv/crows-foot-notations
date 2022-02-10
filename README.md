@@ -1,14 +1,21 @@
 # crows-foot-notations
+[![EgoistDeveloper crows-foot-notations](https://preview.dragon-code.pro/EgoistDeveloper/crows-foot-notations.svg)](https://github.com/EgoistDeveloper/crows-foot-notations)
+
 
 [Crow's foot notations](https://en.wikipedia.org/wiki/Entity–relationship_model) in SVG format with left, right, top and bottom directions. Crow's foot notations are one of many entity-relation notations types and these notations are useful for drawing entity relation endpoints.
 
 See also [@VivekMChawla](https://www.vivekmchawla.com/erd-crows-foot-relationship-symbols-cheat-sheet/)'s [ERD "Crow's Foot" Relationship Symbols Cheat Sheet](https://drive.google.com/file/d/0B_spkK3eZiHmZTZhczVTaVZxUFU/view)
 
+[![NPM](https://img.shields.io/npm/v/@egoistdeveloper/crows-foot-notations)](https://www.npmjs.com/package/@egoistdeveloper/crows-foot-notations)
+[![NPM Bundle Size](https://img.shields.io/bundlephobia/minzip/@egoistdeveloper/crows-foot-notations)](https://www.npmjs.com/package/@egoistdeveloper/crows-foot-notations)
+[![NPM](https://img.shields.io/npm/l/@egoistdeveloper/crows-foot-notations)](https://github.com/EgoistDeveloper/crows-foot-notations/blob/dev/LICENSE)
+
+
 # Table of contents
 
 - [crows-foot-notations](#crows-foot-notations)
 - [Table of contents](#table-of-contents)
-- [Installation](#installation)
+  - [Installation](#installation)
   - [Base notations](#base-notations)
     - [Zero](#zero)
     - [One](#one)
@@ -22,9 +29,11 @@ See also [@VivekMChawla](https://www.vivekmchawla.com/erd-crows-foot-relationshi
 - [Online SVG editor](#online-svg-editor)
 - [Copyrights](#copyrights)
 
-# Installation
+## Installation
 
-``
+```dsconfig
+$ npm i @egoistdeveloper/crows-foot-notations
+```
 
 
 ## Base notations
