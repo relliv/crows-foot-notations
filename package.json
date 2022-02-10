@@ -1,6 +1,6 @@
 {
   "name": "@egoistdeveloper/crows-foot-notations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Crow's foot notations in SVG format with left, right, top and bottom directions.",
   "main": "index.js",
   "scripts": {
